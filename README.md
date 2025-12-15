@@ -66,12 +66,11 @@ me.say_hi()
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [My CTF Platform](https://github.com/AlexRLG98/my-ctf) | 61 security challenges (Web, Crypto, PWN, Reverse) | Python, Docker, CTFd |
-| [Living World](https://github.com/AlexRLG98/living-world) | AI ecosystem simulator with neural networks | Python, Pygame, NumPy |
-| [OSINT Tool](https://github.com/AlexRLG98/osint-tool) | Investigation platform with LLM integration | FastAPI, Selenium, Ollama |
-| [Epitech-Tek3](https://github.com/AlexRLG98/Epitech-Tek3) | All my TEK3 projects | C++, Python, TypeScript |
+<p align="center">
+  <a href="https://alexrlg98.github.io/#projects">
+    <img src="https://img.shields.io/badge/View_All_Projects-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="View Projects"/>
+  </a>
+</p>
 
 ---
 
