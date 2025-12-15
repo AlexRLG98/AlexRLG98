@@ -60,10 +60,6 @@ me.say_hi()
   <img height="180em" src="https://alexrlg98-stats.vercel.app/api/top-langs/?username=AlexRLG98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRLG98&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### Featured Projects
