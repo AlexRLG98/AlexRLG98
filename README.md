@@ -17,7 +17,7 @@ class Alexandre:
     def __init__(self):
         self.location = "Monaco"
         self.school = "Epitech Nice (TEK3)"
-        self.graduation = 2026
+        self.graduation = 2028
 
         self.interests = [
             "Cybersecurity & Pentesting",
