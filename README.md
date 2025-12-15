@@ -54,12 +54,12 @@ me.say_hi()
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://alexrlg98-stats.vercel.app/api?username=AlexRLG98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://alexrlg98-stats.vercel.app/api/top-langs/?username=AlexRLG98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreRLG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRLG&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRLG98&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreRLG&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
