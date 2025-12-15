@@ -43,13 +43,13 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,react,nodejs,docker,linux,git,postgresql&theme=dark" />
 </p>
 
-| | |
-|---|---|
-| **Languages** | Python, C, C++, TypeScript, Assembly x86_64 |
-| **Frontend** | React, Tailwind CSS, Framer Motion |
-| **Backend** | FastAPI, Node.js, Express |
-| **DevOps** | Docker, GitHub Actions, Linux |
-| **Security** | CTF, Pentesting, Reverse Engineering |
+<p align="center">
+  <b>Languages:</b> Python • C • C++ • TypeScript • Assembly x86_64<br>
+  <b>Frontend:</b> React • Tailwind CSS • Framer Motion<br>
+  <b>Backend:</b> FastAPI • Node.js • Express<br>
+  <b>DevOps:</b> Docker • GitHub Actions • Linux<br>
+  <b>Security:</b> CTF • Pentesting • Reverse Engineering
+</p>
 
 ---
 
