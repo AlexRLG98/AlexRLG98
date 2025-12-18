@@ -65,7 +65,7 @@ me.say_hi()
 ### Featured Projects
 
 <p align="center">
-  <a href="http://localhost:5173/#projects">
+  <a href="http://localhost:5173/projects">
     <img src="https://img.shields.io/badge/View_All_Projects-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="View Projects"/>
   </a>
 </p>
