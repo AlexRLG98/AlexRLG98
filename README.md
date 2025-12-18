@@ -57,7 +57,7 @@ me.say_hi()
 
 <p align="center">
   <img height="180em" src="https://alexrlg98-stats.vercel.app/api?username=AlexRLG98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://alexrlg98-stats.vercel.app/api/top-langs/?username=AlexRLG98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake,smali" />
+  <img height="180em" src="https://alexrlg98-stats.vercel.app/api/top-langs/?username=AlexRLG98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake,smali,cython" />
 </p>
 
 <p align="center">
