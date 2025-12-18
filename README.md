@@ -57,7 +57,7 @@ me.say_hi()
 
 <p align="center">
   <img height="180em" src="https://alexrlg98-stats.vercel.app/api?username=AlexRLG98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://alexrlg98-stats.vercel.app/api/top-langs/?username=AlexRLG98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake" />
+  <img height="180em" src="https://alexrlg98-stats.vercel.app/api/top-langs/?username=AlexRLG98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake,smali" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ me.say_hi()
 ### Featured Projects
 
 <p align="center">
-  <a href="http://localhost:5173/projects">
+  <a href="https://alexrlg98.github.io/#projects">
     <img src="https://img.shields.io/badge/View_All_Projects-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="View Projects"/>
   </a>
 </p>
